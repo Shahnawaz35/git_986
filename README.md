@@ -16,3 +16,35 @@ A web-based chatbot interface designed for handling industrial and power grid-re
 
 ## Project Structure
 
+
+---
+
+## How to Use
+
+1. Clone or download this repository to your local system.
+2. Open `index.html` in any web browser.
+3. Use the input field to simulate user interaction.
+4. Extend `script.js` to connect with a backend or chatbot API.
+
+---
+
+## Future Enhancements
+
+- Backend integration for chatbot responses
+- Voice input functionality
+- Persistent chat history using database
+- Enhanced UI/UX with animations and transitions
+
+---
+
+## Contributing
+
+Contributions are welcome. Please fork the repository and submit a pull request with your suggested changes.
+
+---
+
+## License
+
+This project is open-source and available for educational and non-commercial use.
+
+
