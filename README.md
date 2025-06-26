@@ -39,12 +39,4 @@ A web-based chatbot interface designed for handling industrial and power grid-re
 
 ## Contributing
 
-Contributions are welcome. Please fork the repository and submit a pull request with your suggested changes.
-
----
-
-## License
-
-This project is open-source and available for educational and non-commercial use.
-
-
+Contributions are welcome. Please fork the repository and submit a pull request with your suggested change.
